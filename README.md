@@ -15,7 +15,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://github.com/DudaLucenaMiguel/Anti-Monopoly/blob/main/imagens/Template.jpg" alt="Anti-Monopoly Template" border="0">
+<img src="https://github.com/2024-1-MCC1/Projeto1/blob/main/imagens/Templante.jpg" alt="Anti-Monopoly Template" border="0">
 <p align="center">
 Image by <a href=" ">Duda Lucena Miguel</a> 
 
@@ -28,11 +28,11 @@ Image by <a href=" ">Duda Lucena Miguel</a>
 
 -Raiz<br>
 |<br>
+|-->executavel<br>
+	&emsp;|-->windows<br>
 |-->documentos<br>
 	&emsp;|-->antigos<br>
 	&emsp;|Documentação.docx<br>
-|-->executavel<br>
-	&emsp;|-->windows<br>
 |-->imagens<br>
 |-->src<br>
 	&emsp;|-->Frontend<br>
@@ -56,7 +56,7 @@ Não há instalação! Apenas executável!
 Encontre o Anti-Monopoly.exe na pasta executável e execute-o como qualquer outro programa.
 
 ```sh
-https://github.com/DudaLucenaMiguel/Anti-Monopoly/blob/main/Executavel/Anti-Monopoly.exe
+https://github.com/2024-1-MCC1/Projeto1/blob/main/Executavel/Anti-Monopoly.exe
 ```
 
 ## 💻 Configuração para Desenvolvimento
